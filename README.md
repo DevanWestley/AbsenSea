@@ -1,7 +1,7 @@
 # AbsenSea
-An app for checking a sea farer's crew safety equipments with computer vision and also for tracking the crew members availability
+An application for checking a seafarer's crew safety equipment using computer vision and tracking crew members' availability.
 
-MariTeam
-Ketua Kelompok: 
-Anggota 1: 
-Anggota 2: 
+## Team: MariTeam
+- Ketua Kelompok: 
+- Anggota 1: 
+- Anggota 2: 
