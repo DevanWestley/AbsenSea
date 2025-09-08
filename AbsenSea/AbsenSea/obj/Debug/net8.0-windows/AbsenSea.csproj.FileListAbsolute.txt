@@ -1,0 +1,16 @@
+C:\Users\wstly\source\repos\AbsenSea\AbsenSea\bin\Debug\net8.0-windows\AbsenSea.exe
+C:\Users\wstly\source\repos\AbsenSea\AbsenSea\bin\Debug\net8.0-windows\AbsenSea.deps.json
+C:\Users\wstly\source\repos\AbsenSea\AbsenSea\bin\Debug\net8.0-windows\AbsenSea.runtimeconfig.json
+C:\Users\wstly\source\repos\AbsenSea\AbsenSea\bin\Debug\net8.0-windows\AbsenSea.dll
+C:\Users\wstly\source\repos\AbsenSea\AbsenSea\bin\Debug\net8.0-windows\AbsenSea.pdb
+C:\Users\wstly\source\repos\AbsenSea\AbsenSea\obj\Debug\net8.0-windows\AbsenSea.Form1.resources
+C:\Users\wstly\source\repos\AbsenSea\AbsenSea\obj\Debug\net8.0-windows\AbsenSea.csproj.GenerateResource.cache
+C:\Users\wstly\source\repos\AbsenSea\AbsenSea\obj\Debug\net8.0-windows\AbsenSea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wstly\source\repos\AbsenSea\AbsenSea\obj\Debug\net8.0-windows\AbsenSea.AssemblyInfoInputs.cache
+C:\Users\wstly\source\repos\AbsenSea\AbsenSea\obj\Debug\net8.0-windows\AbsenSea.AssemblyInfo.cs
+C:\Users\wstly\source\repos\AbsenSea\AbsenSea\obj\Debug\net8.0-windows\AbsenSea.csproj.CoreCompileInputs.cache
+C:\Users\wstly\source\repos\AbsenSea\AbsenSea\obj\Debug\net8.0-windows\AbsenSea.dll
+C:\Users\wstly\source\repos\AbsenSea\AbsenSea\obj\Debug\net8.0-windows\refint\AbsenSea.dll
+C:\Users\wstly\source\repos\AbsenSea\AbsenSea\obj\Debug\net8.0-windows\AbsenSea.pdb
+C:\Users\wstly\source\repos\AbsenSea\AbsenSea\obj\Debug\net8.0-windows\AbsenSea.genruntimeconfig.cache
+C:\Users\wstly\source\repos\AbsenSea\AbsenSea\obj\Debug\net8.0-windows\ref\AbsenSea.dll
